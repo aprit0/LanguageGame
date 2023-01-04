@@ -1,0 +1,17 @@
+
+
+GameModes:
+    Features:
+    - Upload CSV in Data/Language Folder
+
+    Mode:
+    Q(Eng)/A(Rus)
+    - 4 bubbles, pick which
+    Q(Rus)/A(Eng)
+    - Text box answer
+
+
+    Notes
+    Typing
+    - Difficult in Russian, hunt and peck
+    - Can type in english for russian word, but lets do bubbles
